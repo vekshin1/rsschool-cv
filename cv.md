@@ -11,6 +11,12 @@
 
 I decided to study IT because I want to create useful technologies that solve real problems. I like programming for the opportunity to constantly learn new things, think logically and see the results of my work - from simple scripts to complex systems. This is a field where knowledge is important, not connections, where you can work from anywhere in the world and grow as a specialist.
 
+<h2><strong>Skills</strong></h2>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>Python</li>
+
 <h2><strong>Code example:</strong></h2>
 ```
 print("Hello, World!")
